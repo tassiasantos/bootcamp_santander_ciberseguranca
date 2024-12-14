@@ -8,4 +8,6 @@ Este repositório contém os códigos que produzi em resposta aos desafios propo
 
 ## Lista de Desafios
 
+* [**Verificação de Integridade de Arquivos**](https://github.com/tassiasantos/bootcamp_santander_ciberseguranca/blob/main/verifica_integridade/resposta.md)
+  
 Desenvolva um sistema simples que verifica a integridade de arquivos, comparando o hash fornecido pelo usuário com o hash real do arquivo. Seu objetivo é verificar se o hash calculado é igual ao hash esperado.
