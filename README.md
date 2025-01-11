@@ -28,3 +28,8 @@ Desenvolva um sistema simples que verifica a integridade de arquivos, comparando
  
     Implemente um Ransomware para criptografar arquivos utilizando a linguagem Python.
 
+***
+
+<div align="center">
+  <img src="https://github.com/user-attachments/files/18384656/Santander.Bootcamp.Ciberseguranca.pdf" alt="Uma imagem centralizada">
+</div>
