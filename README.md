@@ -31,5 +31,7 @@ Desenvolva um sistema simples que verifica a integridade de arquivos, comparando
 ***
 
 <div align="center">
-  <img src="https://github.com/user-attachments/files/18384656/Santander.Bootcamp.Ciberseguranca.pdf" alt="Uma imagem centralizada">
+  <img src="https://github.com/user-attachments/assets/564e3c5c-3e3e-4b73-8598-15448adb4db1" alt="Uma imagem centralizada">
 </div>
+
+
