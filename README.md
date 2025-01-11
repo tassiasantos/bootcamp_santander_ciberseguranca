@@ -20,8 +20,11 @@ Desenvolva um sistema simples que verifica a integridade de arquivos, comparando
 
     Crie um Phishing que recrie a página de login do Facebook e capture as credenciais de acesso do usuário.
    
-* [**Phishing - Identificação de Padrão**](https://github.com/tassiasantos/bootcamp_santander_ciberseguranca/blob/main/identifica_phishing/resposta.md)
+* [**Phishing - Identificação de Padrão**](https://github.com/tassiasantos/bootcamp_santander_ciberseguranca/blob/main/phishing_captura_credenciais/resposta.md)
 
   Crie uma solução para analisar uma lista de e-mails recebidos, verificando padrões comuns de phishing nas mensagens. Se um e-mail contiver palavras suspeitas como "ganhe", "prêmio", "urgente", "desconto", "click" e "promoção" ele deve ser classificado como "Phishing" e "Seguro".
 
-  * [**Ransomware - Encriptação de Dados**](
+ * [**Ransomware - Encriptação de Dados**](https://github.com/tassiasantos/bootcamp_santander_ciberseguranca/blob/main/ransomware_vnsrx/resposta.md)
+ 
+    Implemente um Ransomware para criptografar arquivos utilizando a linguagem Python.
+
